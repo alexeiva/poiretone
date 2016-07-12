@@ -22,6 +22,7 @@ Alexei Vanyashin, @alexeiva
   -  [x] Expansion to GF Cyrillic Plus
   -  [x] Design clean-up
   -  [x] Improve spacing and kerning
-  -  [ ] Expansion to GF Latin Plus
+  -  [x] Expansion to GF Latin Plus
+  -  [x] Review Vietnamese
   -  [ ] Done
 
