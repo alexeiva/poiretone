@@ -32,11 +32,11 @@ To contribute to the project contact Denis Masharov
 at denis.masharov@gmail.com
 
 Source Files
-1. src/PoiretOne-Regulat.glyphs (Glyphs App Source File)
+1. src/PoiretOne-Regular.glyphs (Glyphs App Source File)
 
 ChangeLog
 
-7–9 July 2016 (Alexei Vanyshin / Cyreal) Poiret One 1.1
+7–13 July 2016 (Alexei Vanyshin / Cyreal) Poiret One 1.1
 — Setup git repo: https://github.com/alexeiva/poiretone
 — Converted to Glyphs format
 — Expanded Charset to GF Cyrillic Plus
@@ -44,6 +44,7 @@ ChangeLog
 — Major design and spacing improvements
 — Rechecked every glyph for stroke weight consistency
 — Fully reworked kerning, added manual pairs. 
+— Expanded Charset to GF Latin Plus
 
 24 Feb 2012 (Denis Masharov) Poiret One v1.001
 - Initial release
@@ -60,5 +61,5 @@ D: Original Type Designer
 
 N: Alexei Vanyashin
 E: a at cyreal dot org
-D: QA, Expansion to GF Cyrillic Plus
+D: QA, Expansion to GF Cyrillic Plus, GF Latin Plus
 W: www.cyreal.org
