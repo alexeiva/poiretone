@@ -3,7 +3,7 @@
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Dzcaron E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idblgrave Idieresis Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Lj Lslash M N NJ Nacute Ncaron Ncommaaccent Eng Nj Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Oogonek Oslash Oslashacute Otilde Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rinvertedbreve S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Yat-cy Yusbig-cy Fita-cy Izhitsa-cy Ghestroke-cy Ghemiddlehook-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy Pemiddlehook-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustrait-cy Ustraitstroke-cy Hadescender-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Cheabkhasian-cy Palochka-cy Zhebreve-cy Chekhakassian-cy Abreve-cy Adieresis-cy Iebreve-cy Schwa-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Gedescender-cy Yerudieresis-cy Qa-cy We-cy Ef-cy.loclBGR Ghestroke-cy.loclBSH Zedescender-cy.loclBSH Esdescender-cy.loclBSH Esdescender-cy.loclCHU Lje-cy.ss01 El-cy.sso1";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Dzcaron E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I Iacute Ibreve Icircumflex Idblgrave Idieresis Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Lj Lslash M N NJ Nacute Ncaron Ncommaaccent Eng Nj Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Oogonek Oslash Oslashacute Otilde Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rinvertedbreve S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Iacute_J.loclNLD A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Yat-cy Yusbig-cy Fita-cy Izhitsa-cy Ghestroke-cy Ghemiddlehook-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy Pemiddlehook-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustrait-cy Ustraitstroke-cy Hadescender-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Cheabkhasian-cy Palochka-cy Zhebreve-cy Chekhakassian-cy Abreve-cy Adieresis-cy Iebreve-cy Schwa-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Gedescender-cy Yerudieresis-cy Qa-cy We-cy Ef-cy.loclBGR Ghestroke-cy.loclBSH Zedescender-cy.loclBSH Esdescender-cy.loclBSH Esdescender-cy.loclCHU Lje-cy.ss01 El-cy.sso1";
 name = Uppercase;
 }
 );
@@ -63,7 +63,7 @@ familyName = "Poiret One";
 featurePrefixes = (
 {
 automatic = 1;
-code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem cyrl dflt;\012languagesystem latn CAT;\012languagesystem latn ROM;\012languagesystem latn NLD;\012languagesystem latn MOL;\012languagesystem latn KAZ;\012languagesystem latn TAT;\012languagesystem latn TRK;\012languagesystem latn CRT;\012languagesystem latn AZE;\012languagesystem cyrl SRB;\012languagesystem cyrl BGR;\012";
+code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem cyrl dflt;\012languagesystem latn NLD;\012languagesystem latn CAT;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn KAZ;\012languagesystem latn TAT;\012languagesystem latn TRK;\012languagesystem latn CRT;\012languagesystem latn AZE;\012languagesystem cyrl SRB;\012languagesystem cyrl BGR;\012";
 name = Languagesystems;
 }
 );
@@ -74,11 +74,13 @@ code = "feature ccmp;\012feature locl;\012feature sups;\012feature frac;\012feat
 name = aalt;
 },
 {
-code = "lookup ccmp_latn_1 {\012	script latn;\012	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];\012	@CombiningNonTopAccents = [brevebelowcomb cedillacomb dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb strokeshortcomb];\012	sub [i j]' @CombiningTopAccents by [idotless jdotless];\012	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];\012	@Markscomb = [dieresiscomb gravecomb acutecomb hungarumlautcomb macroncomb commaaccentcomb gravecomb.i acutecomb.i brevecomb-cy];\012	@MarkscombCase = [dieresiscomb.case gravecomb.case acutecomb.case hungarumlautcomb.case macroncomb.case commaaccentcomb.case gravecomb.i.case acutecomb.i.case brevecomb-cy.case];\012	sub @Markscomb @Markscomb' by @MarkscombCase;\012	sub @Uppercase @Markscomb' by @MarkscombCase;\012} ccmp_latn_1;\012\012lookup ccmp_latn_2 {\012	script latn;\012	sub @Markscomb' @MarkscombCase by @MarkscombCase;\012	sub @MarkscombCase @Markscomb' by @MarkscombCase;\012} ccmp_latn_2;\012\012lookup ccmp_latn_3 {\012	script latn;\012	lookupflag 0;\012	sub brevecomb acutecomb by brevecomb_acutecomb;\012	sub brevecomb gravecomb by brevecomb_gravecomb;\012	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;\012	sub brevecomb tildecomb by brevecomb_tildecomb;\012	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;\012	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;\012	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;\012	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;\012} ccmp_latn_3;\012\012lookup ccmp_latn_ij  {\012	script latn;\012	sub I acutecomb J acutecomb by IJacute;\012	sub i acutecomb j acutecomb by ijacute;\012	sub Iacute J acutecomb by IJacute;\012	sub iacute j acutecomb by ijacute;\012} ccmp_latn_ij;\012";
+automatic = 1;
+code = "lookup ccmp_latn_1 {\012	script latn;\012	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];\012	@CombiningNonTopAccents = [brevebelowcomb cedillacomb dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb strokeshortcomb];\012	sub [i j]' @CombiningTopAccents by [idotless jdotless];\012	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];\012	@Markscomb = [dieresiscomb gravecomb acutecomb hungarumlautcomb macroncomb commaaccentcomb gravecomb.i acutecomb.i brevecomb-cy];\012	@MarkscombCase = [dieresiscomb.case gravecomb.case acutecomb.case hungarumlautcomb.case macroncomb.case commaaccentcomb.case gravecomb.i.case acutecomb.i.case brevecomb-cy.case];\012	sub @Markscomb @Markscomb' by @MarkscombCase;\012	sub @Uppercase @Markscomb' by @MarkscombCase;\012} ccmp_latn_1;\012\012lookup ccmp_latn_2 {\012	script latn;\012	sub @Markscomb' @MarkscombCase by @MarkscombCase;\012	sub @MarkscombCase @Markscomb' by @MarkscombCase;\012} ccmp_latn_2;\012\012lookup ccmp_latn_3 {\012	script latn;\012	lookupflag 0;\012	sub brevecomb acutecomb by brevecomb_acutecomb;\012	sub brevecomb gravecomb by brevecomb_gravecomb;\012	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;\012	sub brevecomb tildecomb by brevecomb_tildecomb;\012	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;\012	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;\012	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;\012	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;\012} ccmp_latn_3;\012";
 name = ccmp;
 },
 {
-code = "script latn;\012language CAT;\012sub l periodcentered' l by periodcentered.loclCAT;\012sub L periodcentered' L by periodcentered.loclCAT;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language NLD;\012sub I J by IJ;\012sub i j by ij;\012language MOL;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language KAZ;\012sub i by idotaccent;\012language TAT;\012sub i by idotaccent;\012language TRK;\012sub i by idotaccent;\012language CRT;\012sub i by idotaccent;\012language AZE;\012sub i by idotaccent;\012\012script cyrl;\012language SRB;\012sub be-cy by be-cy.loclSRB;\012language CHU;\012sub Esdescender-cy by Esdescender-cy.loclCHU;\012sub esdescender-cy by esdescender-cy.loclCHU;\012language BSH;\012sub Ghestroke-cy by Ghestroke-cy.loclBSH;\012sub Zedescender-cy by Zedescender-cy.loclBSH;\012sub Esdescender-cy by Esdescender-cy.loclBSH;\012sub ghestroke-cy by ghestroke-cy.loclBSH;\012sub zedescender-cy by zedescender-cy.loclBSH;\012sub esdescender-cy by esdescender-cy.loclBSH;\012language BGR;\012sub Ef-cy by Ef-cy.loclBGR;\012sub ve-cy by ve-cy.loclBGR;\012sub ge-cy by ge-cy.loclBGR;\012sub de-cy by de-cy.loclBGR;\012sub zhe-cy by zhe-cy.loclBGR;\012sub ze-cy by ze-cy.loclBGR;\012sub ii-cy by ii-cy.loclBGR;\012sub iishort-cy by iishort-cy.loclBGR;\012sub iigrave-cy by iigrave-cy.loclBGR;\012sub ka-cy by ka-cy.loclBGR;\012sub pe-cy by pe-cy.loclBGR;\012sub te-cy by te-cy.loclBGR;\012sub che-cy by che-cy.loclBGR;\012sub tse-cy by tse-cy.loclBGR;\012sub sha-cy by sha-cy.loclBGR;\012sub shcha-cy by shcha-cy.loclBGR;\012sub softsign-cy by softsign-cy.loclBGR;\012sub hardsign-cy by hardsign-cy.loclBGR;\012sub iu-cy by iu-cy.loclBGR;\012";
+automatic = 1;
+code = "script latn;\012language NLD;\012sub Iacute J by Iacute_J.loclNLD;\012language CAT;\012sub l periodcentered' l by periodcentered.loclCAT;\012sub L periodcentered' L by periodcentered.loclCAT;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language MOL;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language KAZ;\012sub i by idotaccent;\012language TAT;\012sub i by idotaccent;\012language TRK;\012sub i by idotaccent;\012language CRT;\012sub i by idotaccent;\012language AZE;\012sub i by idotaccent;\012\012script cyrl;\012language SRB;\012sub be-cy by be-cy.loclSRB;\012language CHU;\012sub Esdescender-cy by Esdescender-cy.loclCHU;\012sub esdescender-cy by esdescender-cy.loclCHU;\012language BSH;\012sub Ghestroke-cy by Ghestroke-cy.loclBSH;\012sub Zedescender-cy by Zedescender-cy.loclBSH;\012sub Esdescender-cy by Esdescender-cy.loclBSH;\012sub ghestroke-cy by ghestroke-cy.loclBSH;\012sub zedescender-cy by zedescender-cy.loclBSH;\012sub esdescender-cy by esdescender-cy.loclBSH;\012language BGR;\012sub Ef-cy by Ef-cy.loclBGR;\012sub ve-cy by ve-cy.loclBGR;\012sub ge-cy by ge-cy.loclBGR;\012sub de-cy by de-cy.loclBGR;\012sub zhe-cy by zhe-cy.loclBGR;\012sub ze-cy by ze-cy.loclBGR;\012sub ii-cy by ii-cy.loclBGR;\012sub iishort-cy by iishort-cy.loclBGR;\012sub iigrave-cy by iigrave-cy.loclBGR;\012sub ka-cy by ka-cy.loclBGR;\012sub pe-cy by pe-cy.loclBGR;\012sub te-cy by te-cy.loclBGR;\012sub che-cy by che-cy.loclBGR;\012sub tse-cy by tse-cy.loclBGR;\012sub sha-cy by sha-cy.loclBGR;\012sub shcha-cy by shcha-cy.loclBGR;\012sub softsign-cy by softsign-cy.loclBGR;\012sub hardsign-cy by hardsign-cy.loclBGR;\012sub iu-cy by iu-cy.loclBGR;\012";
 name = locl;
 },
 {
@@ -112,8 +114,7 @@ code = "sub dieresiscomb by dieresiscomb.case;\012sub gravecomb by gravecomb.cas
 name = case;
 },
 {
-automatic = 1;
-code = "sub f f ij by f_f_ij;\012sub f ij by f_ij;\012sub H Ge-cy by Enghe-cy;\012sub en-cy ge-cy by enghe-cy;\012sub Tse-cy T by Tetse-cy;\012sub tse-cy te-cy by tetse-cy;\012";
+code = "";
 name = dlig;
 },
 {
@@ -130,11 +131,6 @@ name = salt;
 automatic = 1;
 code = "sub Lje-cy by Lje-cy.ss01;\012sub el-cy by el-cy.ss01;\012sub lje-cy by lje-cy.ss01;\012";
 name = ss01;
-},
-{
-automatic = 1;
-code = "pos @Uppercase <5 0 10 0>;\012";
-name = cpsp;
 }
 );
 fontMaster = (
@@ -4302,91 +4298,6 @@ leftKerningGroup = H;
 note = I;
 rightKerningGroup = H;
 unicode = 0049;
-},
-{
-glyphname = IJ;
-lastChange = "2016-07-14 00:51:39 +0000";
-layers = (
-{
-anchors = (
-{
-name = bottom;
-position = "{248, 0}";
-},
-{
-name = top;
-position = "{415, 750}";
-}
-);
-background = {
-components = (
-{
-name = J;
-transform = "{1, 0, 0, 1, 23, 0}";
-}
-);
-};
-guideLines = (
-{
-angle = 90;
-position = "{84, 141}";
-}
-);
-layerId = "6418A72B-B7AF-4A99-B2A7-67092BA5BFD7";
-paths = (
-{
-closed = 1;
-nodes = (
-"329 -15 OFFCURVE",
-"416 56 OFFCURVE",
-"416 220 CURVE SMOOTH",
-"416 750 LINE",
-"383 750 LINE",
-"383 236 LINE SMOOTH",
-"383 75 OFFCURVE",
-"312 14 OFFCURVE",
-"227 14 CURVE SMOOTH",
-"168 14 OFFCURVE",
-"122 37 OFFCURVE",
-"84 83 CURVE",
-"84 42 LINE",
-"127 2 OFFCURVE",
-"170 -15 OFFCURVE",
-"225 -15 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"117 200 LINE",
-"117 750 LINE",
-"84 750 LINE",
-"84 200 LINE"
-);
-}
-);
-width = 495;
-},
-{
-associatedMasterId = "6418A72B-B7AF-4A99-B2A7-67092BA5BFD7";
-components = (
-{
-name = I;
-},
-{
-name = J;
-transform = "{1, 0, 0, 1, 201, 0}";
-}
-);
-layerId = "89F6456C-BA0E-451D-AF42-CF4BFCE2A977";
-name = "Regular Jul 12 16, 12:50";
-width = 673;
-}
-);
-leftKerningGroup = H;
-leftMetricsKey = I;
-rightKerningGroup = J;
-unicode = 0132;
 },
 {
 glyphname = Iacute;
@@ -11952,6 +11863,38 @@ rightKerningGroup = Z;
 unicode = 017B;
 },
 {
+glyphname = Iacute_J.loclNLD;
+lastChange = "2016-07-26 04:51:54 +0000";
+layers = (
+{
+components = (
+{
+name = I_J.loclNLD;
+},
+{
+name = acutecomb.case;
+transform = "{1, 0, 0, 1, 331, 0}";
+},
+{
+alignment = -1;
+name = acutecomb.case;
+transform = "{1, 0, 0, 1, 40, -1}";
+}
+);
+guideLines = (
+{
+angle = 90;
+position = "{85, 763}";
+}
+);
+layerId = "6418A72B-B7AF-4A99-B2A7-67092BA5BFD7";
+width = 535;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = J;
+},
+{
 glyphname = a;
 lastChange = "2016-07-14 00:51:39 +0000";
 layers = (
@@ -17495,103 +17438,6 @@ rightKerningGroup = i;
 unicode = 020B;
 },
 {
-glyphname = ij;
-lastChange = "2016-07-13 23:10:34 +0000";
-layers = (
-{
-anchors = (
-{
-name = top;
-position = "{192, 450}";
-}
-);
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"174 1098 LINE",
-"174 0 LINE",
-"354 0 LINE",
-"354 1098 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"160 1316 OFFCURVE",
-"206 1280 OFFCURVE",
-"266 1280 CURVE SMOOTH",
-"322 1280 OFFCURVE",
-"371 1316 OFFCURVE",
-"371 1395 CURVE SMOOTH",
-"371 1475 OFFCURVE",
-"322 1509 OFFCURVE",
-"266 1509 CURVE SMOOTH",
-"206 1509 OFFCURVE",
-"160 1475 OFFCURVE",
-"160 1395 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"772 -492 OFFCURVE",
-"878 -383 OFFCURVE",
-"878 -164 CURVE SMOOTH",
-"878 1098 LINE",
-"698 1098 LINE",
-"698 -170 LINE SMOOTH",
-"698 -286 OFFCURVE",
-"651 -342 OFFCURVE",
-"547 -342 CURVE SMOOTH",
-"502 -342 OFFCURVE",
-"457 -335 OFFCURVE",
-"411 -322 CURVE",
-"411 -467 LINE",
-"454 -484 OFFCURVE",
-"506 -492 OFFCURVE",
-"569 -492 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"684 1316 OFFCURVE",
-"730 1280 OFFCURVE",
-"790 1280 CURVE SMOOTH",
-"846 1280 OFFCURVE",
-"895 1316 OFFCURVE",
-"895 1395 CURVE SMOOTH",
-"895 1475 OFFCURVE",
-"846 1509 OFFCURVE",
-"790 1509 CURVE SMOOTH",
-"730 1509 OFFCURVE",
-"684 1475 OFFCURVE",
-"684 1395 CURVE SMOOTH"
-);
-}
-);
-};
-components = (
-{
-name = i;
-},
-{
-alignment = -1;
-name = j;
-transform = "{1, 0, 0, 1, 164, 0}";
-}
-);
-layerId = "6418A72B-B7AF-4A99-B2A7-67092BA5BFD7";
-width = 394;
-}
-);
-leftKerningGroup = i;
-rightKerningGroup = i;
-unicode = 0133;
-},
-{
 glyphname = imacron;
 lastChange = "2016-07-14 00:42:52 +0000";
 layers = (
@@ -18952,72 +18798,6 @@ leftKerningGroup = n;
 note = nacute;
 rightKerningGroup = n;
 unicode = 0144;
-},
-{
-glyphname = napostrophe;
-lastChange = "2016-07-13 21:48:30 +0000";
-layers = (
-{
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"1245 715 LINE SMOOTH",
-"1245 991 OFFCURVE",
-"1116 1118 OFFCURVE",
-"847 1118 CURVE SMOOTH",
-"699 1118 OFFCURVE",
-"569 1056 OFFCURVE",
-"501 948 CURVE",
-"491 948 LINE",
-"464 1098 LINE",
-"319 1098 LINE",
-"319 0 LINE",
-"499 0 LINE",
-"499 569 LINE SMOOTH",
-"499 850 OFFCURVE",
-"596 967 OFFCURVE",
-"821 967 CURVE SMOOTH",
-"990 967 OFFCURVE",
-"1067 881 OFFCURVE",
-"1067 702 CURVE SMOOTH",
-"1067 0 LINE",
-"1245 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"84 1318 OFFCURVE",
-"50 1151 OFFCURVE",
-"3 961 CURVE",
-"136 961 LINE",
-"219 1148 OFFCURVE",
-"277 1307 OFFCURVE",
-"312 1440 CURVE",
-"297 1462 LINE",
-"105 1462 LINE"
-);
-}
-);
-};
-components = (
-{
-name = apostrophemod;
-},
-{
-name = n;
-}
-);
-layerId = "6418A72B-B7AF-4A99-B2A7-67092BA5BFD7";
-width = 530;
-}
-);
-leftKerningGroup = n;
-note = napostrophe;
-rightKerningGroup = n;
-unicode = 0149;
 },
 {
 glyphname = ncaron;
@@ -25478,6 +25258,73 @@ rightKerningGroup = z;
 unicode = 017C;
 },
 {
+export = 0;
+glyphname = napostrophe;
+lastChange = "2016-07-26 04:51:30 +0000";
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"1245 715 LINE SMOOTH",
+"1245 991 OFFCURVE",
+"1116 1118 OFFCURVE",
+"847 1118 CURVE SMOOTH",
+"699 1118 OFFCURVE",
+"569 1056 OFFCURVE",
+"501 948 CURVE",
+"491 948 LINE",
+"464 1098 LINE",
+"319 1098 LINE",
+"319 0 LINE",
+"499 0 LINE",
+"499 569 LINE SMOOTH",
+"499 850 OFFCURVE",
+"596 967 OFFCURVE",
+"821 967 CURVE SMOOTH",
+"990 967 OFFCURVE",
+"1067 881 OFFCURVE",
+"1067 702 CURVE SMOOTH",
+"1067 0 LINE",
+"1245 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"84 1318 OFFCURVE",
+"50 1151 OFFCURVE",
+"3 961 CURVE",
+"136 961 LINE",
+"219 1148 OFFCURVE",
+"277 1307 OFFCURVE",
+"312 1440 CURVE",
+"297 1462 LINE",
+"105 1462 LINE"
+);
+}
+);
+};
+components = (
+{
+name = apostrophemod;
+},
+{
+name = n;
+}
+);
+layerId = "6418A72B-B7AF-4A99-B2A7-67092BA5BFD7";
+width = 530;
+}
+);
+leftKerningGroup = n;
+note = napostrophe;
+rightKerningGroup = n;
+unicode = 0149;
+},
+{
 glyphname = f_f;
 lastChange = "2016-07-14 00:51:39 +0000";
 layers = (
@@ -25937,6 +25784,90 @@ leftKerningGroup = f;
 note = fl;
 rightKerningGroup = l;
 unicode = FB02;
+},
+{
+glyphname = I_J.loclNLD;
+lastChange = "2016-07-26 04:51:41 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{248, 0}";
+},
+{
+name = top;
+position = "{415, 750}";
+}
+);
+background = {
+components = (
+{
+name = J;
+transform = "{1, 0, 0, 1, 23, 0}";
+}
+);
+};
+guideLines = (
+{
+angle = 90;
+position = "{84, 141}";
+}
+);
+layerId = "6418A72B-B7AF-4A99-B2A7-67092BA5BFD7";
+paths = (
+{
+closed = 1;
+nodes = (
+"329 -15 OFFCURVE",
+"416 56 OFFCURVE",
+"416 220 CURVE SMOOTH",
+"416 750 LINE",
+"383 750 LINE",
+"383 236 LINE SMOOTH",
+"383 75 OFFCURVE",
+"312 14 OFFCURVE",
+"227 14 CURVE SMOOTH",
+"168 14 OFFCURVE",
+"122 37 OFFCURVE",
+"84 83 CURVE",
+"84 42 LINE",
+"127 2 OFFCURVE",
+"170 -15 OFFCURVE",
+"225 -15 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"117 200 LINE",
+"117 750 LINE",
+"84 750 LINE",
+"84 200 LINE"
+);
+}
+);
+width = 495;
+},
+{
+associatedMasterId = "6418A72B-B7AF-4A99-B2A7-67092BA5BFD7";
+components = (
+{
+name = I;
+},
+{
+name = J;
+transform = "{1, 0, 0, 1, 201, 0}";
+}
+);
+layerId = "89F6456C-BA0E-451D-AF42-CF4BFCE2A977";
+name = "Regular Jul 12 16, 12:50";
+width = 673;
+}
+);
+leftKerningGroup = H;
+leftMetricsKey = I;
+rightKerningGroup = J;
 },
 {
 glyphname = ordfeminine;
@@ -35170,7 +35101,7 @@ unicode = 04A4;
 },
 {
 glyphname = "enghe-cy";
-lastChange = "2016-07-13 21:35:07 +0000";
+lastChange = "2016-07-26 05:00:40 +0000";
 layers = (
 {
 components = (
@@ -48571,7 +48502,7 @@ rightKerningGroup = "curd-cy";
 {
 export = 0;
 glyphname = "topbar-cy";
-lastChange = "2016-07-25 16:30:35 +0000";
+lastChange = "2016-07-26 05:14:56 +0000";
 layers = (
 {
 anchors = (
@@ -48905,7 +48836,7 @@ topValue = 100;
 {
 export = 0;
 glyphname = "_part.topbar-cy";
-lastChange = "2016-07-14 00:51:39 +0000";
+lastChange = "2016-07-26 05:00:34 +0000";
 layers = (
 {
 anchors = (
@@ -48968,10 +48899,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"25 422 LINE",
 "171 422 LINE",
 "171 450 LINE",
-"25 450 LINE"
+"25 450 LINE",
+"25 422 LINE"
 );
 }
 );
@@ -49851,92 +49782,6 @@ width = 600;
 );
 leftKerningGroup = circumflexcomb_tildecomb;
 rightKerningGroup = circumfdexcomb.i;
-},
-{
-glyphname = IJacute;
-lastChange = "2016-07-25 15:24:36 +0000";
-layers = (
-{
-components = (
-{
-name = IJ;
-},
-{
-name = acutecomb.case;
-transform = "{1, 0, 0, 1, 331, 0}";
-},
-{
-alignment = -1;
-name = acutecomb.case;
-transform = "{1, 0, 0, 1, 40, -1}";
-}
-);
-guideLines = (
-{
-angle = 90;
-position = "{85, 763}";
-}
-);
-layerId = "6418A72B-B7AF-4A99-B2A7-67092BA5BFD7";
-width = 535;
-}
-);
-leftKerningGroup = H;
-rightKerningGroup = J;
-},
-{
-glyphname = ijacute;
-lastChange = "2016-07-25 15:24:41 +0000";
-layers = (
-{
-anchors = (
-{
-name = top;
-position = "{192, 450}";
-}
-);
-components = (
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 206, 0}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 18, 0}";
-}
-);
-layerId = "6418A72B-B7AF-4A99-B2A7-67092BA5BFD7";
-paths = (
-{
-closed = 1;
-nodes = (
-"229 -198 OFFCURVE",
-"306 -128 OFFCURVE",
-"306 -29 CURVE SMOOTH",
-"306 450 LINE",
-"274 450 LINE",
-"274 -29 LINE SMOOTH",
-"274 -110 OFFCURVE",
-"212 -170 OFFCURVE",
-"132 -170 CURVE",
-"132 -198 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"118 0 LINE",
-"118 450 LINE",
-"86 450 LINE",
-"86 0 LINE"
-);
-}
-);
-width = 364;
-}
-);
-leftKerningGroup = H;
-rightKerningGroup = J;
 }
 );
 disablesNiceNames = 1;
