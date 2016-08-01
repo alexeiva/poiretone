@@ -54,6 +54,10 @@ value = (
 {
 name = description;
 value = "Open-source Font by Denis Masharov.";
+},
+{
+name = vendorID;
+value = CYRE;
 }
 );
 date = "2016-07-26 20:07:51 +0000";
@@ -48594,7 +48598,7 @@ rightKerningGroup = "curd-cy";
 color = 11;
 export = 0;
 glyphname = "topbar-cy";
-lastChange = "2016-07-26 20:30:25 +0000";
+lastChange = "2016-08-01 01:30:19 +0000";
 layers = (
 {
 anchors = (
@@ -49091,8 +49095,37 @@ instances = (
 {
 customParameters = (
 {
-name = postscriptFontName;
-value = "PoiretOne-Regular";
+name = typoAscender;
+value = 962;
+},
+{
+name = typoDescender;
+value = -208;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 962;
+},
+{
+name = winDescent;
+value = 208;
+},
+{
+name = hheaAscender;
+value = 962;
+},
+{
+name = hheaDescender;
+value = -208;
+},
+{
+name = fsType;
+value = (
+);
 }
 );
 instanceInterpolations = {

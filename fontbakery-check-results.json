@@ -74,17 +74,18 @@
     {
         "description": "Checking OS/2 fsType",
         "log_messages": [
-            "HOTFIX: fsType is zero. Fixes: OS/2 fsType from 8 to 0"
+            "ERROR: fsType is zero. Changes that must be applied to this font: OS/2 fsType from 8 to 0"
         ],
-        "result": "HOTFIX",
+        "result": "ERROR",
         "target": "/Users/alexei/github.com/alexeiva/poiretone/PoiretOne-Regular.ttf"
     },
     {
         "description": "Assure valid format for the main entries in the name table.",
         "log_messages": [
-            "Main entries in the name table conform to expected format."
+            "ERROR: [FULL_FONT_NAME:MACHINTOSH] entry: expected 'Poiret One Regular' but got 'Poiret One'",
+            "ERROR: [FULL_FONT_NAME:WINDOWS] entry: expected 'Poiret One Regular' but got 'PoiretOne-Regular'"
         ],
-        "result": "OK",
+        "result": "ERROR",
         "target": "/Users/alexei/github.com/alexeiva/poiretone/PoiretOne-Regular.ttf"
     },
     {
@@ -106,7 +107,7 @@
     {
         "description": "Checking OS/2 usWeightClass",
         "log_messages": [
-            "OS/2 usWeightClass"
+            "OS/2 usWeightClass value looks good!"
         ],
         "result": "OK",
         "target": "/Users/alexei/github.com/alexeiva/poiretone/PoiretOne-Regular.ttf"
@@ -114,9 +115,9 @@
     {
         "description": "Checking fsSelection REGULAR bit",
         "log_messages": [
-            "fsSelection REGULAR bit"
+            "ERROR: OS/2 fsSelection REGULAR bit should be set."
         ],
-        "result": "OK",
+        "result": "ERROR",
         "target": "/Users/alexei/github.com/alexeiva/poiretone/PoiretOne-Regular.ttf"
     },
     {
@@ -146,7 +147,7 @@
     {
         "description": "Checking fsSelection ITALIC bit",
         "log_messages": [
-            "fsSelection ITALIC bit"
+            "OS/2 fsSelection ITALIC bit is properly set."
         ],
         "result": "OK",
         "target": "/Users/alexei/github.com/alexeiva/poiretone/PoiretOne-Regular.ttf"
@@ -154,7 +155,7 @@
     {
         "description": "Checking macStyle ITALIC bit",
         "log_messages": [
-            "macStyle ITALIC bit"
+            "head macStyle ITALIC bit is properly set."
         ],
         "result": "OK",
         "target": "/Users/alexei/github.com/alexeiva/poiretone/PoiretOne-Regular.ttf"
@@ -162,7 +163,7 @@
     {
         "description": "Checking fsSelection BOLD bit",
         "log_messages": [
-            "fsSelection BOLD bit"
+            "OS/2 fsSelection BOLD bit is properly set."
         ],
         "result": "OK",
         "target": "/Users/alexei/github.com/alexeiva/poiretone/PoiretOne-Regular.ttf"
@@ -170,7 +171,7 @@
     {
         "description": "Checking macStyle BOLD bit",
         "log_messages": [
-            "macStyle BOLD bit"
+            "head macStyle BOLD bit is properly set."
         ],
         "result": "OK",
         "target": "/Users/alexei/github.com/alexeiva/poiretone/PoiretOne-Regular.ttf"
@@ -197,14 +198,6 @@
             "Namerecord 10s (descriptions) do not exist."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/poiretone/PoiretOne-Regular.ttf"
-    },
-    {
-        "description": "StyleName recommendation",
-        "log_messages": [
-            "HOTFIX: PoiretOne-Regular.ttf: Windows-only Opentype-specific StyleName set to \"Regular\"."
-        ],
-        "result": "HOTFIX",
         "target": "/Users/alexei/github.com/alexeiva/poiretone/PoiretOne-Regular.ttf"
     },
     {
@@ -402,17 +395,17 @@
     {
         "description": "Checking vertical metrics",
         "log_messages": [
-            "HOTFIX: Vertical metrics. Fixes: hhea ascent from 962 to 1098 | OS/2 sTypoAscender from 962 to 1098 | OS/2 usWinAscent from 962 to 1098 | hhea descent from -208 to -218 | OS/2 sTypoDescender from -208 to -218 | OS/2 usWinDescent from 208 to 218"
+            "ERROR: Vertical metrics. Changes that must be applied to this font: hhea ascent from 962 to 1098 | OS/2 sTypoAscender from 962 to 1098 | OS/2 usWinAscent from 962 to 1098 | hhea descent from -208 to -218 | OS/2 sTypoDescender from -208 to -218 | OS/2 usWinDescent from 208 to 218"
         ],
-        "result": "HOTFIX",
+        "result": "ERROR",
         "target": "/Users/alexei/github.com/alexeiva/poiretone/PoiretOne-Regular.ttf"
     },
     {
         "description": "Checking font version fields",
         "log_messages": [
-            "HOTFIX: Font version fields. Fixes: NAMEID_VERSION_STRING from 'Version 1.100' to 'Version 1.09999;' | NAMEID_VERSION_STRING from 'Version 1.100' to 'Version 1.09999;'"
+            "ERROR: Font version fields. Changes that must be applied to this font: NAMEID_VERSION_STRING from 'Version 1.100' to 'Version 1.09999' | NAMEID_VERSION_STRING from 'Version 1.100' to 'Version 1.09999'"
         ],
-        "result": "HOTFIX",
+        "result": "ERROR",
         "target": "/Users/alexei/github.com/alexeiva/poiretone/PoiretOne-Regular.ttf"
     },
     {
@@ -466,7 +459,7 @@
     {
         "description": "Show hinting filesize impact",
         "log_messages": [
-            "Hinting filesize impact:\n\n|  | PoiretOne-Regular.ttf |\n|----------|----------|----------|\n| Dehinted Size | 85kb |\n| Hinted Size | 85kb |\n| Increase | 384 bytes |\n| Change   | 0.44 % |\n"
+            "Hinting filesize impact:\n\n|  | PoiretOne-Regular.ttf |\n|----------|----------|----------|\n| Dehinted Size | 87kb |\n| Hinted Size | 87kb |\n| Increase | 384 bytes |\n| Change   | 0.42 % |\n"
         ],
         "result": "INFO",
         "target": "/Users/alexei/github.com/alexeiva/poiretone/PoiretOne-Regular.ttf"
@@ -834,9 +827,9 @@
     {
         "description": "METADATA.pb font.style `normal` matches font internals?",
         "log_messages": [
-            "ERROR: Font macStyle indicates a non-Italic font but nameID 4 (\"Poiret One\") ends with \"Italic\""
+            "METADATA.pb font.style 'normal' matches font internals."
         ],
-        "result": "ERROR",
+        "result": "OK",
         "target": "/Users/alexei/github.com/alexeiva/poiretone/METADATA.pb"
     },
     {
