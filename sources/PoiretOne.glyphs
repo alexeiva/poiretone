@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2011, The Poiret One Project Authors";
+copyright = "Copyright 2011 The Poiret One Project Authors";
 customParameters = (
 {
 name = license;
