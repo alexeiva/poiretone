@@ -1,5 +1,5 @@
 {
-.appVersion = "919";
+.appVersion = "924";
 classes = (
 {
 automatic = 1;
@@ -23,7 +23,8 @@ value = CYRE;
 },
 {
 name = fsType;
-value = 0;
+value = (
+);
 },
 {
 name = "Use Typo Metrics";
@@ -39467,6 +39468,17 @@ rightKerningGroup = nbspace;
 unicode = 00A0;
 },
 {
+glyphname = CR;
+lastChange = "2016-09-27 10:05:37 +0000";
+layers = (
+{
+layerId = "6418A72B-B7AF-4A99-B2A7-67092BA5BFD7";
+width = 220;
+}
+);
+unicode = 000D;
+},
+{
 glyphname = .notdef;
 lastChange = "2016-07-14 00:51:39 +0000";
 layers = (
@@ -49064,40 +49076,20 @@ topValue = 100;
 );
 },
 {
-glyphname = CR;
-lastChange = "2016-09-27 10:05:37 +0000";
-layers = (
-{
-layerId = "6418A72B-B7AF-4A99-B2A7-67092BA5BFD7";
-width = 220;
-}
-);
-unicode = 000D;
-},
-{
 glyphname = NULL;
-lastChange = "2016-09-27 10:05:37 +0000";
+lastChange = "2016-10-02 09:27:11 +0000";
 layers = (
 {
 layerId = "6418A72B-B7AF-4A99-B2A7-67092BA5BFD7";
 width = 0;
 }
 );
+unicode = 0000;
 }
 );
 disablesNiceNames = 1;
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Poiret One Regular";
-},
-{
-name = compatibleFullName;
-value = "Poiret One Regular";
-}
-);
 instanceInterpolations = {
 "6418A72B-B7AF-4A99-B2A7-67092BA5BFD7" = 1;
 };
