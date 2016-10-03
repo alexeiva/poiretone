@@ -36,6 +36,9 @@ Source Files
 
 ChangeLog
 
+27 September 2016 (Marc Foley) Poiret One 1.1
+-Mastered repository and fonts
+
 7–13 July 2016 (Alexei Vanyshin / Cyreal) Poiret One 1.1
 — Setup git repo: https://github.com/alexeiva/poiretone
 — Converted to Glyphs format

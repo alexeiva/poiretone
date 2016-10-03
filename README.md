@@ -24,5 +24,5 @@ Alexei Vanyashin, @alexeiva
   -  [x] Improve spacing and kerning
   -  [x] Expansion to GF Latin Plus
   -  [x] Review Vietnamese
-  -  [ ] Done
+  -  [x] Done
 
