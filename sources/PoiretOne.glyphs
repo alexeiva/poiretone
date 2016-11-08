@@ -1,5 +1,5 @@
 {
-.appVersion = "924";
+.appVersion = "930";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2011 The Poiret One Project Authors";
+copyright = "Copyright 2011 The Poiret One Project Authors (https://github.com/alexeiva/poiretone)";
 customParameters = (
 {
 name = license;
@@ -34,6 +34,7 @@ value = 1;
 date = "2012-02-29 21:07:51 +0000";
 designer = "Denis Masharov (denis.masharov@gmail.com), Cyreal (Charset Expansion)";
 designerURL = "http://www.behance.net/Denis_Masharov";
+disablesNiceNames = 1;
 familyName = "Poiret One";
 featurePrefixes = (
 {
@@ -49087,7 +49088,6 @@ width = 0;
 unicode = 0000;
 }
 );
-disablesNiceNames = 1;
 instances = (
 {
 instanceInterpolations = {
